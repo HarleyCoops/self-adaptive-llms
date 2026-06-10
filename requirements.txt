@@ -12,7 +12,7 @@ tqdm==4.66.3
 traitlets==5.13.0
 transformers==5.0.0rc3
 trl==0.8.6
-vllm==0.20.0
+vllm==0.22.0
 hydra-core==1.3.2
 evalplus @ git+https://github.com/evalplus/evalplus@1895d2f6aa8895044a7cf69defc24bd57695e885
 peft
